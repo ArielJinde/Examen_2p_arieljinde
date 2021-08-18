@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335311322587",
+    "project_id": "app1-2f957",
+    "storage_bucket": "app1-2f957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335311322587:android:68812ce583f442fb393bfe",
+        "android_client_info": {
+          "package_name": "arielfb.fisei.lan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335311322587-fgfjpl4v5h34lcnr04720s1oi1qsmnh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kKwPkJoaclJpfnPf5rj85zSrSCcBRbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335311322587-fgfjpl4v5h34lcnr04720s1oi1qsmnh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
